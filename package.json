@@ -1,0 +1,19 @@
+{
+  "name": "time-to-pray",
+  "version": "1.0.0",
+  "description": "an app to help me pray on time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrHassanAbdallah/time-to-pray.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrHassanAbdallah/time-to-pray/issues"
+  },
+  "homepage": "https://github.com/amrHassanAbdallah/time-to-pray#readme"
+}
